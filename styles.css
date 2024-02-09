@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+ body {
+    background-image: url('https://example.com/background-image.jpg'); /* Replace 'https://example.com/background-image.jpg' with the actual URL of your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; /* Text color */
+  }
+  h1 {
+    text-align: center;
+  }

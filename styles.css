@@ -7,5 +7,6 @@
     color: white; /* Text color */
   }
   h1 {
+	  font-size:12px;
     text-align: center;
   }
